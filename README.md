@@ -7,7 +7,6 @@
         About me
     </u>
 </h1>
-<img align="right" style="width: 49%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 <p align="left">
     - ⚡ My approach: <b>Learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>System Optimization , Windows Tuning , App Developement , Win32 </i></b><br>
